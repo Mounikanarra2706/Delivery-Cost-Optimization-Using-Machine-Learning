@@ -67,4 +67,3 @@ Perform cost optimization recommendations based on findings.
 
 Author
 Mounika N
-
